@@ -34,12 +34,12 @@ function Project2(props) {
                                     <div key={idx.id} className="col-xl-3 col-md-6">
                                         <div className="project-box">
                                             <div className="image">
-                                                <Link to="/nfts">
+                                                <Link to="/hethong">
                                                     <img src={idx.img} alt="Cyfonii" />
                                                 </Link>
                                             </div>
                                             <div className="content">
-                                                <Link to="/nfts" className="h5 title">{idx.title}</Link>
+                                                <Link to="/hethong" className="h5 title">{idx.title}</Link>
                                             </div>
                                         </div>
                                     </div>
@@ -48,7 +48,7 @@ function Project2(props) {
 
 
                             <div className="button mt-0">
-                                <Button title='View All COLLECTION' link='/nfts' />
+                                <Button title='View All COLLECTION' link='/hethong' />
                             </div>
 
                         </div>

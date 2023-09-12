@@ -12,12 +12,12 @@ const menus = [
             {
                 id: 1,
                 sub: 'HỆ THỐNG VICTORIA ENGLISH',
-                links: '/nfts'
+                links: '/hethong'
             },
             {
                 id: 2,
                 sub: 'TẦM NHÌN & SỨ MỆNH',
-                links: '/blog'
+                links: '/tamnhin'
             },
             {
                 id: 3,
@@ -49,7 +49,7 @@ const menus = [
             {
                 id: 2,
                 sub: 'TIẾNG ANH DÀNH CHO THANH THIẾU NIÊN',
-                links: '/blog'
+                links: '/tamnhin'
             },
             {
                 id: 3,
@@ -118,7 +118,7 @@ const menus = [
     {
         id: 6,
         name: 'TIN TỨC',
-        links: '/blog',
+        links: '/tintuc',
         
     },
     {

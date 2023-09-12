@@ -45,7 +45,7 @@ function Footer2(props) {
                                         <div className="top">
                                             <ul className="widget">
                                                 <li><h5 className="title">Quick link</h5></li>
-                                                <li><Link to="/nfts">NFT Trading</Link></li>
+                                                <li><Link to="/hethong">NFT Trading</Link></li>
                                                 <li><Link to="#">Development</Link></li>
                                                 <li><Link to="#">Advertisement</Link></li>
                                                 <li><Link to="#">Carrer</Link></li>
@@ -53,7 +53,7 @@ function Footer2(props) {
                                             <ul className="widget">
                                                 <li><h5 className="title">Help</h5></li>
                                                 <li><Link to="/about">About Us</Link></li>
-                                                <li><Link to="/team">Team Members</Link></li>
+                                                <li><Link to="/tintuc">Team Members</Link></li>
                                                 <li><Link to="#">Support</Link></li>
                                                 <li><Link to="#">Refund Policv</Link></li>
                                             </ul>

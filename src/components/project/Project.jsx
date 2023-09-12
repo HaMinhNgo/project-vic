@@ -63,12 +63,12 @@ function Project(props) {
                                             <div className="swiper-slide">
                                                 <div className="project-box">
                                                     <div className="image">
-                                                        <Link to="/nfts">
+                                                        <Link to="/hethong">
                                                             <img src={idx.img} alt="Cyfonii" />
                                                         </Link>
                                                     </div>
                                                     <div className="content">
-                                                        <Link to="/nfts" className="h5 title">{idx.title}</Link>
+                                                        <Link to="/hethong" className="h5 title">{idx.title}</Link>
                                                     </div>
                                                 </div>
                                             </div>
