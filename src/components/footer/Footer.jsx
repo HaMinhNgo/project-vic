@@ -66,10 +66,10 @@ function Footer(props) {
                                 <div className="center mb--30">
                                     <ul className="list">
                                         <li><Link to="/">Home</Link></li>
-                                        <li><Link to="/nfts">Explore</Link></li>
+                                        <li><Link to="/hethong">Explore</Link></li>
                                         <li><Link to="/about">About</Link></li>
-                                        <li><Link to="/nfts">Collections</Link></li>
-                                        <li><Link to="/team">Team</Link></li>
+                                        <li><Link to="/hethong">Collections</Link></li>
+                                        <li><Link to="/tintuc">Tin Tức</Link></li>
                                         <li><Link to="/contact">Contact</Link></li>
                                     </ul>
                                     <p>Copyright © 2022, Cyfonii. Designed by Themesflat</p>

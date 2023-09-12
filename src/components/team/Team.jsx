@@ -60,12 +60,12 @@ function Team(props) {
                                             <div className="swiper-slide">
                                                 <div className="team-box">
                                                     <div className="image">
-                                                        <Link to="/team">
+                                                        <Link to="/tintuc">
                                                             <img src={idx.img} alt="Cyfonii" />
                                                         </Link>
                                                     </div>
                                                     <div className="content">
-                                                        <Link to="/team" className="h5 name">{idx.name}</Link>
+                                                        <Link to="/tintuc" className="h5 name">{idx.name}</Link>
                                                         <p className="postion">
                                                             {idx.position}
                                                         </p>

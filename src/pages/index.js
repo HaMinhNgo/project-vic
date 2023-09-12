@@ -24,8 +24,8 @@ import VisionsMission from "./VisionsMission";
 const routes = [
   { path: '/', component: <Home01 />},
 
-  { path: '/nfts', component: <Nfts />},
-  { path: '/blog', component: <Blog />},
+  { path: '/hethong', component: <Nfts />},
+  { path: '/tamnhin', component: <Blog />},
   { path: '/blog-details', component: <BlogDetails />},
   { path: '/visions-mission', component: <VisionsMission />},
   { path: '/help-center', component: <HelpCenter />},
@@ -34,7 +34,7 @@ const routes = [
   { path: '/partners', component: <Partners />},
   { path: '/about', component: <About />},
   { path: '/road-map', component: <RoadMap />},
-  { path: '/team', component: <Team />},
+  { path: '/tintuc', component: <Team />},
   { path: '/contact', component: <Contact />},
 
 
