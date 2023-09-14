@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a7f55724.css",
+    "main.js": "/static/js/main.93735cfd.js",
+    "static/media/logo_vic.png": "/static/media/logo_vic.4981ebc4b585158e6ccc.png",
+    "static/media/line.png": "/static/media/line.3a6a07c6db5f75eeb158.png",
+    "static/media/line-2.png": "/static/media/line-2.29fa29de3b8bae0fc066.png",
+    "static/media/map.png": "/static/media/map.99c04146b47266b4d000.png",
+    "static/media/bg-banner.png": "/static/media/bg-banner.e72e3f48954cea4f1547.png",
+    "static/media/icon-3.svg": "/static/media/icon-3.008f8940ce7e8ddf6c1c704b6617a433.svg",
+    "static/media/icon-4.svg": "/static/media/icon-4.ab0c5a622690a850f02b40f281b7021c.svg",
+    "static/media/icon-2.svg": "/static/media/icon-2.64a426404facadee8edcdff90eb40b45.svg",
+    "static/media/icon-1.svg": "/static/media/icon-1.e6532415687262a77a94d333ad146907.svg",
+    "index.html": "/index.html",
+    "main.a7f55724.css.map": "/static/css/main.a7f55724.css.map",
+    "main.93735cfd.js.map": "/static/js/main.93735cfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7f55724.css",
+    "static/js/main.93735cfd.js"
+  ]
+}
