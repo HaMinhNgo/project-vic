@@ -26,7 +26,11 @@ const routes = [
 
   { path: '/hethong', component: <Nfts />},
   { path: '/tamnhin', component: <Blog />},
+<<<<<<< HEAD
   { path: '/giatricotloi', component: <BlogDetails />},
+=======
+  { path: '/blog-details', component: <BlogDetails />},
+>>>>>>> e38be99716fe65cd7f93a937577e0b795e31edcd
   { path: '/visions-mission', component: <VisionsMission />},
   { path: '/help-center', component: <HelpCenter />},
   { path: '/participants-assets', component: <ParticipantAssets />},
