@@ -26,7 +26,7 @@ const routes = [
 
   { path: '/hethong', component: <Nfts />},
   { path: '/tamnhin', component: <Blog />},
-  { path: '/blog-details', component: <BlogDetails />},
+  { path: '/giatricotloi', component: <BlogDetails />},
   { path: '/visions-mission', component: <VisionsMission />},
   { path: '/help-center', component: <HelpCenter />},
   { path: '/participants-assets', component: <ParticipantAssets />},

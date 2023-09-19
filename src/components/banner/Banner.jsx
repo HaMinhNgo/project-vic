@@ -14,12 +14,11 @@ function Banner(props) {
                         <div className="col-xl-6 col-md-12">
                             <div className="banner__left">
                                 <div className="block-text">
-                                    <h2 className="heading">Collect Next <br />
-                                        Generation <span className="s1 arlo_tm_animation_text_word">NFTs</span> <br />
-                                        Today</h2>
-                                    <p className="desc">Cyfonii is the premier marketplace for nifties, which are digital items you can truly own for yourself</p>
+                                    <h2 className="heading">VICTORIA AUSTRALIA
+                                       </h2>
+                                    <p className="desc">HỆ THỐNG GIÁO DỤC QUỐC TẾ VICTORIA AUSTRALIA</p>
 
-                                    <Link to="/contact" className="action-btn"><span>Get Connected</span></Link>
+                                    <Link to="/contact" className="action-btn"><span>LIÊN HỆ NGAY</span></Link>
                                 </div>
 
                                 <div className="pay">

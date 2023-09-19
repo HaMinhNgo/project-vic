@@ -54,9 +54,7 @@ function Project3(props) {
                                 <div key={idx.id} className="col-xl-3 col-md-6">
                                     <div className="nft-item">                               
                                         <div className="card-media">
-                                            <Link to="#"><img src={idx.img} alt="Cyfonii" /></Link>
-                                            
-                                            
+                                            <Link to="/"><img src={idx.img} alt="Cyfonii" /></Link>
                                         </div>
                                         <div className="card-title">
                                             <Link to="#" className="h5">{idx.title}</Link>

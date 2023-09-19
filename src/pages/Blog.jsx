@@ -12,7 +12,7 @@ function Blog(props) {
     return (
         <div className='wrapper'>
 
-            <PageTitle title='Blog List' />
+            <PageTitle title='Tầm nhìn' />
 
             <BlogList data={dataBlog} />
 

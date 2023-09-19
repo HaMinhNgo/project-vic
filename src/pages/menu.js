@@ -22,7 +22,7 @@ const menus = [
             {
                 id: 3,
                 sub: 'GIÁ TRỊ CỐT LÕI',
-                links: '/blog-details'
+                links: '/giatricotloi'
             },
             {
                 id: 4,
@@ -38,7 +38,7 @@ const menus = [
     },
     {
         id: 3,
-        name: 'KHÓA HỌC',
+        name: 'CAMBRIDGE',
         links: '#',
         namesub: [
             {
@@ -85,6 +85,53 @@ const menus = [
     },
     {
         id: 4,
+        name: 'IELTS',
+        links: '#',
+        namesub: [
+            {
+                id: 1,
+                sub: 'TIẾNG ANH DÀNH CHO TRẺ EM',
+                links: '#'
+            },
+            {
+                id: 2,
+                sub: 'TIẾNG ANH DÀNH CHO THANH THIẾU NIÊN',
+                links: '/tamnhin'
+            },
+            {
+                id: 3,
+                sub: 'TIẾNG ANH CHUẨN ĐẦU RA TỐT NGHIỆP',
+                links: '/blog-details'
+            },
+            {
+                id: 4,
+                sub: 'ĐÀO TẠO TIẾNG ANH CHUẨN QUỐC TẾ CAMBRIDGE',
+                links: '/visions-mission'
+            },
+            {
+                id: 5,
+                sub: 'TIẾNG ANH DÀNH CHO DOANH NGHIỆP',
+                links: '/help-center'
+            },
+            {
+                id: 6,
+                sub: 'HỆ THỐNG MẦM NON VICTORIA KINDERWORLD',
+                links: '/help-center'
+            },
+            {
+                id: 7,
+                sub: 'DỰ BỊ TIỂU HỌC – HÀNH TRANG VÀO LỚP 1',
+                links: '/help-center'
+            },
+            {
+                id: 8,
+                sub: 'VICTORIA DU HỌC',
+                links: '/help-center'
+            }
+        ]
+    },
+    {
+        id: 6,
         name: 'HỆ THỐNG CHI NHÁNH',
         links: '#',
         namesub: [
@@ -116,13 +163,13 @@ const menus = [
         ]
     },
     {
-        id: 6,
+        id: 7,
         name: 'TIN TỨC',
         links: '/tintuc',
         
     },
     {
-        id: 7,
+        id: 8,
         name: 'LIÊN HỆ',
         links: '/contact',
     },

@@ -33,7 +33,7 @@ function Blog(props) {
                             <div key={idx.id} className="col-md-4" >
                                 <div className="blog-box">
                                     <div className="image">
-                                        <Link to="/blog-details">
+                                        <Link to="/giatricotloi">
                                             <img src={idx.img} alt="Cyfonii" />
                                         </Link>
                                     </div>
@@ -45,7 +45,7 @@ function Blog(props) {
                                             {idx.time}</p>
                                         </div>
 
-                                        <Link to="/blog-details" className="h5 title">{idx.title}</Link>
+                                        <Link to="/giatricotloi" className="h5 title">{idx.title}</Link>
                                     </div>
                                 </div>
                             </div>

@@ -12,7 +12,7 @@ function Nfts(props) {
     return (
         <div className='wrapper'>
 
-            <PageTitle title='NFTs' />
+            <PageTitle title='Hệ Thống VICTORIA AUSTRALIA' />
 
             <Project3 data={dataItem} />
 
